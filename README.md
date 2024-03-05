@@ -35,6 +35,21 @@ Python will be used throughout the course. The environment setup steps are shown
 
 _Important! If you would like to use your GPU to train neural networks, update the line `pytorch-cuda={cuda version}` in the `environment-gpu.yml` file. The current CUDA version is 12.1, but you should check your graphics card compatibility first._
 
-## Literature
+## Grading scheme
 
-???
+The final course grade is equal to the project
+grade, if the laboratories have been passed.
+
+The laboratory grade is based on the assignments
+turned in. Class attendance is mandatory and two
+unexcused absences are allowed. More unexcused 
+absences will result in failing the course (NZAL).
+
+| percentage | grade |
+|------------|-------|
+| \>90%      | 5     | 
+| \>80%      | 4.5   | 
+| \>70%      | 4     | 
+| \>60%      | 3.5   | 
+| \>50%      | 3     | 
+| ≤50%       | 2     | 

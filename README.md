@@ -59,3 +59,5 @@ absences will result in failing the course (NZAL).
 | \>60%      | 3.5   | 
 | \>50%      | 3     | 
 | ≤50%       | 2     | 
+
+Automatic grader available at `mldd.matinf.uj.edu.pl`
